@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "baseUrl": ".",
+    "esModuleInterop": true,
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "strict": true,
+    "types": ["@wdio/jasmine-framework", "webdriverio"],
+    "typeRoots": ["node_modules/@types"]
+  },
+  "include": ["**/*"],
+  "exclude": ["node_modules"]
+}

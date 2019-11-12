@@ -1,0 +1,17 @@
+# IDE
+.idea/
+
+# Npm related
+npm-debug.log*
+node_modules/
+
+# Operating System
+*.DS_Store
+
+# Functional Tests
+functional/reports/
+# Allure report
+allure-report
+
+# ENV FILE
+.env
